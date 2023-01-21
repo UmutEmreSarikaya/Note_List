@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Challenge2</string>
+
+    <string name="edit_button">Edit Note</string>
+    <string name="share_button">Share Note</string>
+    <string name="add_button">Add New Note</string>
+
+    <string name="text_info">There are no notes, would you like to add a note ?</string>
+
+    <string name="enter_header">Enter Header</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="save_new_note">Save New Note</string>
+    <string name="update_note">Update Note</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
