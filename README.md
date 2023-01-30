@@ -1,5 +1,5 @@
 # Note_List
-This project is a simple app for note taking. The user can add notes, delete them, edit them and share them. Hilt is used for dependency injection. Notes are saved to
+This project is a simple app for note taking. The user can add notes, delete them, edit them and share them. Hilt is used for dependency injection. Notes are
 are saved to a local database by using Room database.
 
 This project was done during my internship at OBSS Technology.
